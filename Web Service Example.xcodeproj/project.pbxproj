@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D11AD20F1C10CC1A005BB068 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = D11AD20E1C10CC1A005BB068 /* SwiftyJSON.swift */; settings = {ASSET_TAGS = (); }; };
 		D14509E51BFE598B0041007F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D14509E41BFE598B0041007F /* AppDelegate.swift */; };
 		D14509E71BFE598B0041007F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D14509E61BFE598B0041007F /* ViewController.swift */; };
 		D14509EA1BFE598B0041007F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D14509E81BFE598B0041007F /* Main.storyboard */; };
@@ -43,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D11AD20E1C10CC1A005BB068 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = SOURCE_ROOT; };
 		D14509E11BFE598B0041007F /* Web Service Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Web Service Example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D14509E41BFE598B0041007F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D14509E61BFE598B0041007F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -134,6 +136,7 @@
 				D14509EB1BFE598B0041007F /* Assets.xcassets */,
 				D14509ED1BFE598B0041007F /* LaunchScreen.storyboard */,
 				D14509F01BFE598B0041007F /* Info.plist */,
+				D11AD20E1C10CC1A005BB068 /* SwiftyJSON.swift */,
 			);
 			path = "Web Service Example";
 			sourceTree = "<group>";
@@ -315,6 +318,7 @@
 				D1F094B61C04AE05000A0A5C /* AFURLRequestSerialization.m in Sources */,
 				D1F094B51C04AE05000A0A5C /* AFURLConnectionOperation.m in Sources */,
 				D1F094B41C04AE05000A0A5C /* AFSecurityPolicy.m in Sources */,
+				D11AD20F1C10CC1A005BB068 /* SwiftyJSON.swift in Sources */,
 				D1F094B01C04AE05000A0A5C /* AFHTTPRequestOperation.m in Sources */,
 				D1F094B81C04AE05000A0A5C /* AFURLSessionManager.m in Sources */,
 				D1F094B71C04AE05000A0A5C /* AFURLResponseSerialization.m in Sources */,
