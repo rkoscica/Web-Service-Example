@@ -15,7 +15,7 @@
 
 
 
-#import "/Users/rkoscica/Desktop/Code12/Web Service Example/AFNetworking/AFNetworking.h"
+#import "AFNetworking/AFNetworking.h"
 
 
 
